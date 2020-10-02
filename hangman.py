@@ -1,5 +1,5 @@
 import random
-word_list = ["python", "java", "android"]
+word_list = ["python", "java", "android", "javascript", "rust", "ruby"]
 our_word = random.choice(word_list)
 guessed_letters = []
 guess_word = ""
